@@ -1,0 +1,2 @@
+# Stock-Price-Prediction-Using-Univariate-Time-Series
+The main objective of this study is to analyse and predict the stock prices of the Apple Company. For our study, we selected three different approaches, i.e. Statistical methods, Time Series Forecasting and Neural Networks. In each of the approaches, we have selected Linear Regression, Seasonal ARIMA and Long Short Term Memory (LSTM) machine learning algorithms respectively. We intend to analyse and compare each model and check which approach performed which high accuracy in terms of prediction of the stock price.
